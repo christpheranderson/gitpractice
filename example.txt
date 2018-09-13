@@ -1,2 +1,3 @@
 Today was very weird.
-Hello
+Hello 
+Hello I am Christopher Anderson. I am a web developer.
